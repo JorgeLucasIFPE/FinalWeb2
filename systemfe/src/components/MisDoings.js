@@ -141,7 +141,7 @@ export default function Misdoing() {
                         when: {misdoing.when}<br />
                         professor: {misdoing.professor_id}<br />
                         student: {misdoing.student_id}<br />
-                        additional: {misdoing.additional}<br />
+                        additional: {misdoing.additionalInfo}<br />
                     </Paper>
                 ))
                 }
